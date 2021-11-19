@@ -66,13 +66,3 @@ i {
 
 .ic-store:before {
   content: '\e90f'; }
-
-p {
-  color: #00ff1f;
-  display: block; }
-
-* {
-  font-family: 'Noto Sans KR', sans-serif;
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box; }
