@@ -372,15 +372,19 @@ template {
   display: none; }
 
 * {
-  box-sizing: border-box;
   margin: 0;
-  font-family: 'Noto Sans KR', sans-serif; }
+  font-family: "Noto Sans KR", sans-serif;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+  box-sizing: border-box; }
 
 html {
-  font-family: 'Noto Sans KR', sans-serif; }
+  font-family: "Noto Sans KR", sans-serif;
+  font-size: 16px; }
 
 body {
-  font-family: 'Noto Sans KR', sans-serif; }
+  color: #3f4150;
+  font-family: "Noto Sans KR", sans-serif; }
 
 h1 {
   margin: 0; }
