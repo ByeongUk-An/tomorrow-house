@@ -416,6 +416,11 @@ ol {
   padding-left: 0;
   list-style: none; }
 
+p {
+  font-size: 12px;
+  letter-spacing: -0.005em;
+  line-height: 16px; }
+
 /*
  * MOBILE (<768px) --------------------------------------
  * fixture •••••••••••••••••••••••••• sm
